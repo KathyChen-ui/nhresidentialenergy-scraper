@@ -1,4 +1,5 @@
 🔌⚡ NH Residential Energy Plan Scraper & Data Pipeline
+
 (A Python Web Scraper + Data Extraction Pipeline for Electricity Plans in New Hampshire)
 
 This project automatically scrapes real-time residential electricity plan details from the New Hampshire Public Utilities Commission (PUC) website and structures them into clean, queryable Python dictionaries—optionally storing the final records in MongoDB.
